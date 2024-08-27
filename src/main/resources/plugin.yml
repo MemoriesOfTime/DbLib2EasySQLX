@@ -4,3 +4,5 @@ version: ${project.version}
 author: fromgate, nukkit.ru
 api: ["1.0.8"]
 description: SQLite/MySQL library for your plugins (Nukkit)
+depend:
+  - "EasySQLX"
